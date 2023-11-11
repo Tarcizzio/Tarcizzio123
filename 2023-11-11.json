@@ -1,0 +1,26 @@
+{
+  "name": "Eric Bailey",
+  "age": 53,
+  "address": {
+    "street": "Java Glen",
+    "city": "Vavleto",
+    "state": "MA",
+    "zip": "60490"
+  },
+  "contact": {
+    "phone": "(854) 636-6896",
+    "servicePhone": "800238539"
+  },
+  "birthday": "1986-06-23T04:09:53.720Z",
+  "ip": "51.183.170.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Dab kijiw ron ejhohet us bi ku puese diniseti mewloltag gutnim gigno gigwew zev oraodo. Co pi hupo iluron ihivegu ekojohu un je cak joh dof judejzid ketum bejac egejeido lukesmo. Motza motkufiv mu tavmegob zi oj up ic wuupiku va kabafci nidi tim. Az ju jalfu napilo cawa ahevu vojbodcec omefuaz kutcosiv buahora otomoj waj ucrev kasurvo doad wo.",
+    "bio": "Odopav hag uma otunafjuf butod dev vuzi zirdut tufro ona feekibu siccim femnace awe. Babit gih mabipem sam sigucrib ciic kafumko er no usfi detahcut offa kicro. Obotanob mehhap jercipev lasbidim omku todevmif toznaf golzu murej wi cifumiv cazuklu mibcu. Ful onetuelu for kabrid poj pa fa nirap big bi vogce zu sis mucbogpu moguk. Hufafvo wum gubgukin jecersog husces moudno we ojole mahdahic iz ine hudogfe as piz."
+  },
+  "apiKey": "4c5ef8e278f5f061885a6789e873f7bfde0574c33f737154b2b067caadb76aee",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
