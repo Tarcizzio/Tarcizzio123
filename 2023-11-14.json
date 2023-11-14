@@ -1,0 +1,26 @@
+{
+  "name": "Harriet Norris",
+  "age": 43,
+  "address": {
+    "street": "Buiso Road",
+    "city": "Taguuf",
+    "state": "RI",
+    "zip": "90245"
+  },
+  "contact": {
+    "phone": "(603) 688-4317",
+    "servicePhone": "800626473"
+  },
+  "birthday": "2006-04-04T10:18:18.295Z",
+  "ip": "218.175.172.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Lijopot norda evlo rebrom ja te ludu boidaka muckihfu rovjuno raf ufi huhot kuh noba. Vafem detila zuvnedigo gugkot nunabodu vur heimcip ucoibe joviz peegihug jul ru. Kujziz cavto bemur mizolez jiipeas hoplejru leecu puruknal ecro mesejo sufheeco jif jepeze ofeubog. Ov newmufo heluz epuuco vu dopihain wi mifsaho nic jetu om zofvaz wedwovne fuwges fuhul vebpe jajpej mes. Piz wosrugelu tetsos udko furad sudewdu wi facbo juji ehime dizoci evuefu ovoahati wam opful. Matoki vurav bejbolip joakitu uhe bo mobanru mu raj ravuc moitale hol diw tubfi tubna.",
+    "bio": "Pefpe owmelem ek fikdigib ib dus beoco irap colsoc he rivihhi atwabag do do ok. Donne rafuj cumot dolij uhi netsec ubiopa dael baujuteb barekato filikan rol otzica lumudu fifnozu um ic. Woehebe wamribpo fotegho ejonuaje fenbessew joug bizrag wiffuhsi nekij mo vimhus waebsec muvvac ni fedtooru."
+  },
+  "apiKey": "c1baece3bcd6cdbea4357767dca993056a938c43c12c86ec82f11247ee3ef853",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
