@@ -1,0 +1,26 @@
+{
+  "name": "Lou Parker",
+  "age": 30,
+  "address": {
+    "street": "Sifu Drive",
+    "city": "Puhehuzu",
+    "state": "AZ",
+    "zip": "16508"
+  },
+  "contact": {
+    "phone": "(889) 570-1001",
+    "servicePhone": "800158884"
+  },
+  "birthday": "1960-11-11T18:13:00.740Z",
+  "ip": "16.184.192.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Voroke noodbo rabip ewo boti mecnekic zemciz ze ev wucoolu do vummejvad coza divhogu kofzu lu natoslib fuagiub. Caho bipesse edmoj abi gojtud bibepu ogifehiz misintu ricnesbul zula piwuwo guf epuhjo. Eniozuiro ceg suduhigup pegocnu jos ragmiwe haiba nor pisiguafe fotuc na voebdud va. Loupomim viz sari pa lu dicoful soac etwamoza milzuozo sip soaka zabgazoc uj cesa wikeza oraegetum jotniari.",
+    "bio": "Alaotaju izloeti ru cef vuotocuh uk teesu wugosu jeek lo eche vosgohi. Ke odesusta onutecova aborac bac ma cafagupi wuz rufe rakitihus luthuwcu wi vir oju. Jonehilo tinokni zasa ho ul ja idtab jaemi lejur hul ihelal efizoj."
+  },
+  "apiKey": "ca969a2a7f7be7ca21f53d2af2fdebac89c2e452e43865434b83358468cc6595",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
