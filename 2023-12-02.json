@@ -1,0 +1,26 @@
+{
+  "name": "Ada Watson",
+  "age": 33,
+  "address": {
+    "street": "Zuldah Extension",
+    "city": "Bircikcu",
+    "state": "NY",
+    "zip": "29225"
+  },
+  "contact": {
+    "phone": "(639) 520-4541",
+    "servicePhone": "800529445"
+  },
+  "birthday": "1990-05-05T15:39:05.126Z",
+  "ip": "60.21.39.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Esda lo humivsu mususewin pucu tuj gola riknov lajun hezakdab ibo pa. Wimil dud cab vaf olu luk toj tadizuze nubehi vecuim baca emapectuh pobpeun lico dir uku ociala. Rabsub ju vagacre bulocmu gipen hu ci fa efa biw cu sozneom su dipula fevehi wawi hetvo.",
+    "bio": "Hon riwiga vuzilvit fire le dojohob birhervu riplaefi aho aklov ihsewof osfuket ujo vivu merolo. Urifido tobazzot vodibiw rek zu tas vo lesjug zuctage jib di kuna tuk cob huhubunu. Dut alewedhi bebun ajmenhe ovsu re runi du cusisdo gajobmut povap zu ucaino."
+  },
+  "apiKey": "f6d8f29dfcac580dc61b0a13b15390d9da99260a58e73b6e2fae6721ce5e8dd5",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
