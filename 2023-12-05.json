@@ -1,0 +1,26 @@
+{
+  "name": "Adele Guerrero",
+  "age": 31,
+  "address": {
+    "street": "Duin Junction",
+    "city": "Tojidud",
+    "state": "ME",
+    "zip": "58352"
+  },
+  "contact": {
+    "phone": "(225) 912-4618",
+    "servicePhone": "800456819"
+  },
+  "birthday": "2002-05-03T09:18:38.645Z",
+  "ip": "22.128.217.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohesepa ves pezge ijizab tomafop lutza oca wib uklokod ak ka tal relijitu. Nifaj kanpoguw biso zirenar ahoni sulak tot rof jo med ratpacudi wimmuk gip fojgugwu coafaos. Kad gukid og fi tuzikila fen vaece god lovkudil igo ece molula jiewe fe.",
+    "bio": "Piam apco irozdeb kuklogev da gieti uwreh mu avefu wavpib bit mec soojilew vuf. Nefa vo susi efubekhi zut dil col gini em ros ufoafibe efu duf. Abruzji wakovo wukej mufbummo sed ebhig joje et za pahsoozu futaztim bihfutiz asluzedu dicna. Hafdunfap julop usidiz raorafuw rot ij dozfuton sobudvij cip ipabu oreuntuj ci oz wowoves pogegla ordak pumozim. Giro on fittef sujpec ugebocjo pog wiw wufillem vew niw roc fen mu baspap sizpa eliozava pa. Ebnoh ha ric lu dotfavteh amha pe ged hubdi wub vape cagig dok tehi ta vefakiz fi vo."
+  },
+  "apiKey": "9d1a859977184794d2dea9251ef53d89373e8fbd8b7b4a22b5e6c3441e1c78ae",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
