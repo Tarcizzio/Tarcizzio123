@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Lucas",
+  "age": 54,
+  "address": {
+    "street": "Jatgac Pike",
+    "city": "Zinuhuj",
+    "state": "NV",
+    "zip": "33482"
+  },
+  "contact": {
+    "phone": "(226) 628-6121",
+    "servicePhone": "800925756"
+  },
+  "birthday": "1972-03-16T12:52:26.653Z",
+  "ip": "177.235.102.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Gohu piras wa devcien guvesna pidton gajejge betedni zurawmu labkup ofuwew zo safu. Bez weddamdu hirkek maseduna nufishaz jeca zuw ho sa odo tem uko deznaz. Tofuh pukreidu bom vucuos mumtirhi onoki tanku oz gaszene jenvow tojgukol ajli tujibwa ul wimevauti. Uge top ruzvo fucun intedi ker kilparma hak kaam wanipko fe fibib tivduuz.",
+    "bio": "Tilac ofi bokdi is wuet ga ilgatbi apzeb haukogaf naha abjecga rertaaki ij. Faboko ilu be caovofo uwkuoc icedek feomi egimaju uc awafejkuk ak vu magbi fiifedam. If ze gididve huvo hur uvcoad salez gow voc ro licba wirahes lug ku doro."
+  },
+  "apiKey": "e1b1a2f3d41f737ade3d9c38c4743e13963cf4dedb9b9a1536776662a91dddb6",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
