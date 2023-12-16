@@ -1,0 +1,26 @@
+{
+  "name": "Millie Brown",
+  "age": 49,
+  "address": {
+    "street": "Hiva Avenue",
+    "city": "Boawput",
+    "state": "NE",
+    "zip": "55506"
+  },
+  "contact": {
+    "phone": "(712) 329-8179",
+    "servicePhone": "800748788"
+  },
+  "birthday": "1963-02-12T05:10:16.993Z",
+  "ip": "222.3.178.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Hihgadne zikho cicfitadu uz laccut tuzidi gowizda cutajusa roz joz simurebez fi omifehuw becot. Jiwur himkupu cu kutav kuz ifamuwan elite amso walaeje fu nehve hugnuhnif ezdok hupef. Dasaho ga cof loras nigvumtep zacut vo wudmin bo wabji kiel ceg umfire ruja. Ikfuki hoduk zeciwu nilivouwi nujzo revbosez te mur iloni fu zo cuhehruv cemevkev nesomob. Hablaiwu evebeh jivu fo ogkewin egibijil gihca tini zarabonu tagpaduh ge fuzmelsef mer mejna ha.",
+    "bio": "Wo tuziden anozocuh kiahe wop tiuc tuvadfu viulole nuljoj tem ko hagbozu veg jajrewazu dartoz namfuw loafuuk. Siajeisi dewule teslag wowajoged vodsob ba pauf piige cat si hopriiki nuwe rudko mihbufhi om jof. Humke wu dukki cukizke zimiow za lifoh nah awu gupenit diguca lov vo edaace vuvu vefug. Gifew elwuupi ja hogig pujavcin pamowof falup aho agesike rowvej wukahfaw ger ekajo somhubob josdo awaire ci."
+  },
+  "apiKey": "543c4c5a0fa3f67efe45ed050f55e591173590a83e0192b5bae6659ccb4e9191",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
