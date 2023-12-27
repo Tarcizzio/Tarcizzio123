@@ -1,0 +1,26 @@
+{
+  "name": "Ola Alexander",
+  "age": 53,
+  "address": {
+    "street": "Beli Extension",
+    "city": "Ozodeklos",
+    "state": "FL",
+    "zip": "30831"
+  },
+  "contact": {
+    "phone": "(328) 332-4279",
+    "servicePhone": "800852972"
+  },
+  "birthday": "1990-09-13T17:58:10.712Z",
+  "ip": "204.66.119.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Be lufdot ud voijpu pis vuwurbo ihzuk op ved sib ticaf havoso gev sidlatac. Cod se sa nizvete vas dahginpin ked ecoca es gozeike gorpew ehiaga pazri uke liviweapa updo raf. Jutcow difi ig evvu kobciz bafrit ejho momwuc lew go zuf tuen jimlap kope lutije be sovutam jugabe. Savoje ma owevfaz jorcom tejosov jueze jepesemo segiceb ahe tetof gofij rot ca eho eju.",
+    "bio": "Te vore giwivam tuk recohrut azuber lu saffahwo nezvip zup jabol curta nifil ze bef se pedkiwec. Fikpucah oh uv ju fuj za jiajewe gak jibmolo uccikgev mijser leduf ohlu. Edbir epis letin suvgap retpaja rumodo apugepwum comorsog likkub na ma catnoca vadi mokofar hauku maevenad wibiwaca zugis. Taenipa zut vo ija sedo fune mit osaobovu ipu wuatla cin ejraj vobom alegonzas. Uh zanwizafu umine um pikvucgis sam ojge joun evo kebgunlep huvu neel dadu ibvepe ezfim. Vikuj oposohmuf iluzufik biivu ip on jaeh foniseje loejo cuafibak maf pa dizaki wuhoji onbozji."
+  },
+  "apiKey": "5c461acbb3c2f9f29a6d9e84c42c2e6469d6d9baa6f924faf8bac20747931cfb",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
