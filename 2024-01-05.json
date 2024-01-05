@@ -1,0 +1,26 @@
+{
+  "name": "John Green",
+  "age": 37,
+  "address": {
+    "street": "Nadwad Turnpike",
+    "city": "Ogokoori",
+    "state": "IL",
+    "zip": "07273"
+  },
+  "contact": {
+    "phone": "(325) 917-3139",
+    "servicePhone": "800112982"
+  },
+  "birthday": "1993-07-05T09:25:12.087Z",
+  "ip": "4.173.107.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuslipi gol juhdueg zumnurhen fib kelozgig dis fo pitbe kopomeg ometizaf vu vat bogbe zacdov fizre gavzu. Bijen iviful ziczu fuk je tez guuzudu cesmir fa ga mahzoiri awo tuh rot wegwojo pus fem gal. Warhopus okine pi rubhasder suucu ojebcip neploc ro romolovu jihpetos louha abaca nuwha. Nazsen nuuspu urizo jabilaz egmerfe uk ikfub camackun me cot wud um cad. Rikwac hamibo olu hodahsek so te wojus gosac pavuko gi pi fadcujcaz ar gopduv moowa pazivwan ce. Ebtikzaj nofovoh tid dajof woc puf ifi emo amejsul he lozakju jakok.",
+    "bio": "Tiro iksa navrel wotzir asavi hodog ezefobo lijavpa jutujuobu ze mu atesehva zu va oh pivesgu. Velzew viozi ivlaca civuw arlojci zumlojuku nohceaga varu se fetwacig ja cavu cic fu sedur evwav fil om. Epatotud bohuklet aru bonat huneg lupziptom uvoom gam zubhobuv coczara ejuomwi ohesuwne tasbun zuda garzevih ze pa. Cocleb uge ju id duzumaoc liko hu ri tineb wub tulat kidhat ebewa eneh cikisoip caeku. Geol uvsi hamosvak woz copikudo vicote desapi upoescor cefviwru zilsacri dorroes jabzo. Rujrug wujup higkag ze zujek je upuhos ibutuwve pohmuhuw li inehol fijonat dotpu jun. Lus fam fauchad dujfojnib ned osiobobo uluti juvbuf nicpa vijzu eviled pewdis oh ivibuvded lero jiho nepev deb."
+  },
+  "apiKey": "3620d1bf1d2df96b46c3d4d254452921d59724dcba7aa2c1957bd7cd3f6a232e",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
