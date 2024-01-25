@@ -1,0 +1,26 @@
+{
+  "name": "Lina Jones",
+  "age": 38,
+  "address": {
+    "street": "Jede Avenue",
+    "city": "Hovduore",
+    "state": "MA",
+    "zip": "84950"
+  },
+  "contact": {
+    "phone": "(916) 327-9000",
+    "servicePhone": "800933639"
+  },
+  "birthday": "1992-06-08T22:07:52.578Z",
+  "ip": "56.216.122.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku samwonru mavef urizuop hudciful hekke de tuj cuze adu pedtob veapnec. Haw satvik hizsul pomivu nopcim ku delase cicen ne vu rickiiki nazfopfer. Gokuiza cu had wukaja fihal cigag vauso abra mastopbe micpaak laf neloz zuphe asnac. Oc ibsigec loh ze ze webtez tirokok ukjihen dakim pahvunino cekitiji dusifce ujiecme soci mojnu ji numjaf. Tawedmu noz row unsak sunzarun fuspora ezogo fesdofoj gomsob ago sahenica rabgoj giegso upru.",
+    "bio": "Wek ke hodbavroj gebhil inis dosa etcawu tol rodom cabwus cu caksi puk wa. Re ir noj adosiro rifpe zu ice uwoso pihec kojhocbu atrebbaw ped ceeniku ruzutfik azpaev zanberu. Zo ac evihe kurov mamralmi laztulho led iw ituaz sofajni ake ez suesla nelda kud tuv tiefeja ni. Zo gozhuw pesiw ji ponsoz dub seku con kedniz ep zozemu mo viclu ubodilmu vo jo. Nesojin imufaus keruuje veze fe pu vor kaplobik be hilfova dogmolloj tofru hedi unnelilu gej pozvacvus vis."
+  },
+  "apiKey": "c03fb7b171efeb4f796605888b4749f0900baf954a6d9538457a477457ae6efc",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
