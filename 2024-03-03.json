@@ -1,0 +1,26 @@
+{
+  "name": "Annie Jensen",
+  "age": 18,
+  "address": {
+    "street": "Kenap Path",
+    "city": "Evunueco",
+    "state": "OR",
+    "zip": "81111"
+  },
+  "contact": {
+    "phone": "(619) 857-4312",
+    "servicePhone": "800553779"
+  },
+  "birthday": "1985-11-29T07:23:40.010Z",
+  "ip": "245.110.242.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Zope wosnoves zubpu zokewaje ikuta peldo jette rudcifco losurbo bak fohhu buj olowombi. Tardibihu hew va eb pi depeg vuflicom fo piaw zomuz ta weigu acidogew gozgow. Rociwaka los cedal ukcu kor sonfucu ab ta ti po afu labic sokge ata wuvfopko porarha. Li no mafira go wavla kedlica fisacbep irujezuw al uto juklushek hucmuf zo vicfav. Id mabpadzi le puikri hi tev sa tarzam fid vuhi wofen faczibna liim gavig. Ranvuci arunuvova ribif ofugaz zeneron gaiwo kusugopam wazegdot lacev rug miblo solo zosvin vurjucod oghipja op.",
+    "bio": "Cifci rasve dizu leklauju jeli bad zikeci mekeic we rec evo kuaki juje bu uj evfomo. Aze tozi mocab ihtubav dorukuk itehahdon hal cuztamze lolfitowu ifoba ak fav gu poed. Waznepi ligera jufepo fe bicut ve gizo lieze javap bejsibkeb jiha enni."
+  },
+  "apiKey": "a426b5c1ae8a21c54b2140fe1f84088fd10c82352c38a2a80af3b687cbd0bd94",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
