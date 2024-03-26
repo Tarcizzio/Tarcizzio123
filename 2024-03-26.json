@@ -1,0 +1,26 @@
+{
+  "name": "David Gonzales",
+  "age": 56,
+  "address": {
+    "street": "Keef Terrace",
+    "city": "Gislilil",
+    "state": "FL",
+    "zip": "63145"
+  },
+  "contact": {
+    "phone": "(567) 979-7212",
+    "servicePhone": "800791845"
+  },
+  "birthday": "1978-08-12T18:52:25.737Z",
+  "ip": "24.27.214.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Jehwig biv be bicam hez mal ef sigluva diale biasazu melujo ne necji ceflu otbilbe vutegto gah. Le ve bid nuvbobme logu ni gugi vuled papi wivvi muv zo wasnuofo mefve. Lahobamo fa irijijoz atut vuj ukhav cucurno signarem mu hunupeta dotkoud va wo fawsehsad zujel im ikmubaji jevusu.",
+    "bio": "Fejdu ca suivubo tembozog taudze odued ro vaifug suwjaam lud ruvoz jawauha zugtuivi zivup vupe ujbim poec onujopev. Ra vigro rig vesi ej nusel bowilmob ujofu wutuhwi sace agauva kiilelo. Ca kenucu mit ru kidnoze nogmotes hivence pupov sajebelo henejla bike hien nab unlomo. Taapa owapedwa ha vatid ved eb di sir muci gib rof nesah deju cifes nudsozgu pofeb mo. Bifpovuj noggi do mikirive cuwkuku wasofpo afeba ri nourba va ficke ud zezeki tiikruz rerom fu. Ciowaok va purpud epuliczu nurtop bamakbin cu gek tefav uwiho levitciz lawhoh zeube ep rat ucemed nuhazza."
+  },
+  "apiKey": "c4556a1f32e9bd37d7836669c4d2fd77ee8c7bc34d06860b81e6027eca6e39fc",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
