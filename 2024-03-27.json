@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Green",
+  "age": 24,
+  "address": {
+    "street": "Hazaj Center",
+    "city": "Pidosluj",
+    "state": "NV",
+    "zip": "14774"
+  },
+  "contact": {
+    "phone": "(940) 698-9200",
+    "servicePhone": "800965792"
+  },
+  "birthday": "1990-11-07T20:38:23.191Z",
+  "ip": "83.226.171.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugievud us wuriflev puebe cozver kib ji ar apagaz newucgam uzuhaje wukafnaj oh. Juhfijek nac repre rep wolhedo mijsij daulece hirwefko hamdiraju tulorija sepit hehiwu. Fiselaj abawu goinu zohuh ujvawmaw heodlev hus af cih nik lualoidu veprijra piuso foccew an cacapi jaf vichuk.",
+    "bio": "Riheko fenim mejoncu lupe hud tuv tam kuwaf dufwogofu igu fimbijol itlewol sono ku pifakuhad. Iso lo gocukig desah rapiz fenvacato efdirum vozpow orozij vonugvip gapiace efigi zoduke. Bab taolzal jum tirfu tusip fecekvof jobsom imimi gih vata ot casaclok dafevihik te kacegir etfaddu. Uh taowu zodzu ruwba ziw kimro er pojpalni ded to jo foricaj rewjoklod awnehap tekzali zi epi. Waboknu virla utoza pukhokki hir mobatid kemesieki ida haw foszozum vej ezan mur. Naeje zifuc vekejeh atodi emololwe uf bohawdu zebah ofunuzi li gunefude zebe nadhihoc inuizewoj."
+  },
+  "apiKey": "d290b7c8f1d24739a01a0e41f13e2758d04b95a912e5ce6889aefd391cc06352",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
