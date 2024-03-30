@@ -1,0 +1,26 @@
+{
+  "name": "Richard Allen",
+  "age": 41,
+  "address": {
+    "street": "Wejuve Turnpike",
+    "city": "Visuza",
+    "state": "NY",
+    "zip": "18779"
+  },
+  "contact": {
+    "phone": "(234) 443-9183",
+    "servicePhone": "800649642"
+  },
+  "birthday": "2001-07-15T09:55:37.011Z",
+  "ip": "87.12.109.139",
+  "foo": "bar",
+  "profile": {
+    "about": "To po guk halfagwo vug tarol livapu kujran ukodaf uhe mahec garlu fipu zudve nuwepga. Udusapat rokiledo hupigow aprocmac johogfe furuha acohe tu nom ojmap omeejme zupiaki ulkiv rukaz waliz socatka ma guifotu. Lovdatlo karezu ulgek nedimas neussu turgo inubiz zopzul wut daz jupo ruziknu. Lazbihi runmucraw pelli pis bam mirjukdo heawag homnah pekrupge fewwub guvta di otu sep idkodo.",
+    "bio": "Ofhurri fib ovev taz wogefvot raajo basami ho sokja jegop tamdewa zamvifgi suebi ful. Hicefji radsefhit ucaortev akecid bunvow tahdapve uli sovmohiro zoz nun fajumjat dalos. Hofiteju mubuzu loh relbol fumsunpov sufif decfiwoh nujapli sotluvej sudsob hijik vugebej cofewi maenva bokdoma pomzizja zoipebef."
+  },
+  "apiKey": "19c5b88c657bdc7ccd0ae28531f9d6abae09e084f06f1d9c005e596667cb4c71",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
