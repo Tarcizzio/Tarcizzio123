@@ -1,0 +1,26 @@
+{
+  "name": "Sara Daniels",
+  "age": 49,
+  "address": {
+    "street": "Etevi Manor",
+    "city": "Olefomsuk",
+    "state": "OK",
+    "zip": "22076"
+  },
+  "contact": {
+    "phone": "(824) 357-8482",
+    "servicePhone": "800437252"
+  },
+  "birthday": "1989-12-04T22:48:46.239Z",
+  "ip": "162.171.11.68",
+  "foo": "bar",
+  "profile": {
+    "about": "We pafaw diimeotu sa kihobi sohkepi nakbis ek ipoudu zezra pak ube. Akoro hon detgilaf mizgujar keic ev revugawa uf leba ecapek ekun delel re duwzezev. Sac liwes ido to kor hebab ivwutal jodake vawopa ro keve wica. Bevbutdez rarni fuucu jolirba apike gotfoh ki nerako siele we so firlog. Gowesfud ta zob teek jazpuk wapsal guguufi fanezza igo hullen nohuvo zu rooraof. De upinaf tirjaf jeezbe nevempij tojor wazipug wuut cesbohi feg ulekagad zivew woz re dopzig. Ovsuhi habero awe butnozu sulcej si porod focbuc bepgo josmi ekobiuw ok mib piwaozo wi.",
+    "bio": "Tamim ja li tujbin tunaj seshi welutje borkikik toicade fu ucomoec wo joknigal nuruj. Gaahow atewenat guew dolov fe hembufo mi davmak zaob gizo mabtep ijikac kesfan um wumrimrib jivnov lu. Mafgic odi kok gismum delpehoti noda li cihjaz ref ozo ek dubesuke gipu pazsez nuzkedpa sesar. Ziccujot hah mocufog tujog aliomape utitosat cu ago erko omuwa edo po vutuva hakotave cac vocbabri. Ab fosijgel ru hieta ovasik keorojor imreb bi mo wo ufipo onukukga ivamah guvvig mew ogha kizwo. Umeuvamir secjilfi lurbot sicjurum luneot mum iwe zovwe erkiw co fi weknim ado tapdantup masre waovi wocidha."
+  },
+  "apiKey": "a81f04fe6f53ce283b6a54fb9220820a6f045bcff6fa71ec3028461d146769e4",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
